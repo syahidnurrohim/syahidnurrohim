@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @syahidnurrohim
-- 👀 I’m interested in Logical things related with programming
+- 👀 I’m interested in Artificial Intelligence & Logical things related with programming
 - 🌱 I’m currently learning to be a good programmer
 - 📫 How to reach me :
   - LinkedIn => https://www.linkedin.com/in/syahid-nurrohim-2b77031b5/
