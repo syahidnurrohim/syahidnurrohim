@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @syahidnurrohim
-- 👀 I’m interested in AI Topic and its trends & Logical things related with programming
+- 👀 Technology future is endless and blockchain will be one of the significant contributor
 - 🌱 I’m currently learning to be a good programmer
 - 📫 How to reach me :
   - LinkedIn: https://www.linkedin.com/in/syahid-nurrohim-2b77031b5/
