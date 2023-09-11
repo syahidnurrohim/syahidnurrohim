@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @syahidnurrohim
-- 👀 Technology future is endless and blockchain will be one of it's significant contributor
-- 🌱 I’m currently learning to be a good programmer
+- 👀 Technology future is endless, do we have anything to contribute for the future technology?
+- 🌱 Currently learning to be a decent programmer
 - 📫 How to reach me :
   - LinkedIn: https://www.linkedin.com/in/syahid-nurrohim-2b77031b5/
 <!---
